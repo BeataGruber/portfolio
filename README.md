@@ -82,10 +82,10 @@ To apply my skills in data analysis, machine learning, and cybersecurity in a pr
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/yourusername  
+- Email: boryszczyn@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/beata-oryszczyn-58505195/
+- GitHub: https://github.com/BeataGruber
 
 ---
 
-⭐ *This portfolio demonstrates practical experience in data analytics, cybersecurity, and machine learning.*
+
